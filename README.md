@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I am Jerosky, but you can call me Jero if you want! :D
+My name is Jerosky, but you can call me Jero if you want! :D
 
 
 ## ABOUT ME:
