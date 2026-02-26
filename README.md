@@ -3,18 +3,18 @@
 I am Jerosky, but you can call me Jero if you want! :D
 
 
-ABOUT ME:
+# ABOUT ME:
 
 👴🏻18 y/o👴🏻
 
-:flag_co: Colombian :flag_co:
+🇨🇴 Colombian 🇨🇴
 
-:flag_sp: Spanish native speaker :flag_sp:
+🇪🇸 Spanish native speaker 🇪🇸
 
-:flag_uk: English conversational speaker (B2) :flag_uk:
+🇬🇧 English conversational speaker (B2) 🇬🇧
 
 
-SKILLS:
+# SKILLS:
 
 Luau Programmer/Scripter: I make games in roblox 🛠
 
