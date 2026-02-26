@@ -1,9 +1,9 @@
-## Hi there! 👋
+# Hi there! 👋
 
 I am Jerosky, but you can call me Jero if you want! :D
 
 
-# ABOUT ME:
+## ABOUT ME:
 
 👴🏻18 y/o👴🏻
 
@@ -14,7 +14,7 @@ I am Jerosky, but you can call me Jero if you want! :D
 🇬🇧 English conversational speaker (B2) 🇬🇧
 
 
-# SKILLS:
+## SKILLS:
 
 Luau Programmer/Scripter: I make games in roblox 🛠
 
