@@ -5,7 +5,7 @@ My name is Jeronimo, but you can call me Jero or Jerosky if you want! :D
 
 ## ABOUT ME:
 
-👴🏻18 y/o👴🏻
+👴🏻19 y/o👴🏻
 
 🇨🇴 Colombian 🇨🇴
 
