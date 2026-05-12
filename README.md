@@ -20,6 +20,7 @@ Luau Programmer/Scripter: I make games in roblox 🛠
 
 App Developer in Progress: Third Semester in College💻
 
-Coding Languages that i´m learning: [![My Skills](https://skillicons.dev/icons?i=lua,robloxstudio,html,css,js,cs)](https://skillicons.dev)
+Coding Languages that i´m learning: 
+[![My Skills](https://skillicons.dev/icons?i=lua,robloxstudio,html,css,js,cs)](https://skillicons.dev)
 
 
